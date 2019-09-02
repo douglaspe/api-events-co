@@ -1,0 +1,65 @@
+{
+  "events": [{
+      "name": "Conferência Google",
+      "date": "06-09-2019",
+      "image": "event1.jpg",
+      "description": "teste",
+      "numberTickets": 100,
+      "priceTicket": 12.2,
+      "hour": "16:00",
+      "address": {
+        "street": "Avenida Barão de Itapura",
+        "number": 1,
+        "neighborhood": "Centro",
+        "city": "Campinas",
+        "state": "São Paulo",
+        "uf": "SP"
+      },
+      "id": 1
+    },
+    {
+      "name": "Conferência Microsoft",
+      "date": "06-09-2019",
+      "image": "event2.jpg",
+      "description": "teste",
+      "numberTickets": 100,
+      "priceTicket": 12.2,
+      "hour": "19:00",
+      "address": {
+        "street": "Avenida Barão de Itapura",
+        "number": 1,
+        "neighborhood": "Centro",
+        "city": "Campinas",
+        "state": "São Paulo",
+        "uf": "SP"
+      },
+      "id": 2
+    },
+    {
+      "name": "Evento Startup",
+      "date": "06-09-2019",
+      "image": "event3.jpg",
+      "description": "teste",
+      "numberTickets": 100,
+      "priceTicket": 12.2,
+      "hour": "12:00",
+      "address": {
+        "street": "Avenida Barão de Itapura",
+        "number": 1,
+        "neighborhood": "Centro",
+        "city": "Campinas",
+        "state": "São Paulo",
+        "uf": "SP"
+      },
+      "id": 3
+    }
+  ],
+  "eventsPayment": [{
+    "name": "Douglas Pereira",
+    "cardNumber": "43348429846",
+    "expirationDate": "12/20",
+    "code": "123",
+    "email": "douglaspe15@gmail.com",
+    "id": 1
+  }]
+}
